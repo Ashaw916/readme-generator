@@ -4,7 +4,7 @@
 ## Description
 This is a node.js app that take user input and creates a good readme.md file for your code repository.
 ## Table of Contents
-- Instructions
+- Installation Instructions
 - Usage
 - License
 - Contributing
