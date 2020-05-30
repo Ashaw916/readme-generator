@@ -12,7 +12,7 @@ This is a node.js app that takes user input and creates a good readme.md file fo
 - Tests
 - Contact Info
 ## Installation Istructions
-Simply clone the code into your repo and run it in your terminal with the command 'node index.js'.
+Simply clone the code into your repo and install dependancies with 'npm i' command in terminal, then run the program with the command 'node index.js'.
 ## Usage
 Just answer the questions.
 ## License
@@ -20,6 +20,7 @@ MIT License
 ## How to Contribute
 Please email me with any issues or if you'd like to contribute something to the project.
 ## Authors 
+Aaron Young
 https://github.com/Ashaw916
 ## How to Run Tests 
 test1 test2
