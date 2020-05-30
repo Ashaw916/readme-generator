@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/Ashaw916/readme-generator.svg?branch=master)](https://travis-ci.com/Ashaw916/readme-generator)
 ## Description
-This is a node.js app that take user input and creates a good readme.md file for your code repository.
+This is a node.js app that takes user input and creates a good readme.md file for your code repository.
 ## Table of Contents
 - Installation Instructions
 - Usage
@@ -12,7 +12,7 @@ This is a node.js app that take user input and creates a good readme.md file for
 - Tests
 - Contact Info
 ## Installation Istructions
-simply clone the code into your repo and run it in your terminal with the command 'node index.js'.
+Simply clone the code into your repo and run it in your terminal with the command 'node index.js'.
 ## Usage
 Just answer the questions.
 ## License
