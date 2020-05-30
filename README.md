@@ -2,5 +2,5 @@
 a good readme generator
 
 Format: ![alt text](url)
-	/appveyor/build/:user/:repo
-  ![alt text](/appveyor/build/:user/:repo)
+[![Status](https://travis-ci.org/rstacruz/REPO.svg?branch=master)](https://travis-ci.org/rstacruz/REPO)  
+CodeClimate (shields.io)
