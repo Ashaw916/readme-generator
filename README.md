@@ -28,25 +28,3 @@ in your terminal, run 'npm run test'
 ![profile picture](https://avatars3.githubusercontent.com/u/60280417?s=460&u=37ccd56cfa83adcfe221dcca295c8e1dc564d55d&v=4)
 
 a.s.young530@gmail.com
-
-# x
-
-x
-## Table of Contents
-- x
-## Installation Istructions
-x
-## Usage
-x
-## License
-MIT License,Apache License,GPL License,,Public Domain (Unlicensed)
-## How to Contribute
-x
-## Authors 
-x
-## How to Run Tests 
-x
-## Contact Info
-![alt text](x)
-
-x
