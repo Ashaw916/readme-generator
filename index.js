@@ -86,6 +86,11 @@ inquirer.prompt(questions).then((response) => {
   );
 
   fsfunc.append(
+    "./readme/README.md", 
+   "## description" + "\n" + response.description + "\n"
+  );
+
+  fsfunc.append(
     "README.md",
     "## Table of Contents" +
     "\n" +
